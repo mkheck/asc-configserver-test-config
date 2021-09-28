@@ -10,4 +10,5 @@ spring:
       auto-refresh: true
       refresh-interval: 5
 
-favac: "Warrior"
+favorite:
+  aircraft: "Warrior"
