@@ -2,8 +2,8 @@ zuul:
   prefix: /api
   ignoredServices: '*'
   routes:
-    aas-test-a1: /a1/**
-    aas-test-a1a: /a1a/**
+    client-service: /client/**
+    backing-service: /backing/**
     api-gateway: /gateway/**
 
 server:
