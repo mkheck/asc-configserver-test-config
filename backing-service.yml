@@ -9,3 +9,5 @@ spring:
     config:
       auto-refresh: true
       refresh-interval: 5
+
+favac: "Warrior"
